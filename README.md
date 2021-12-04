@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Khaled Abdelaziz.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Machine Learning and AI.
+- 💞️ I’m looking to collaborate on Data, Web or Console Applications and any related API Applications.
+- 📫 Reach me @ahmedkhaled9696@yahoo.com
